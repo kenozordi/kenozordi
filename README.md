@@ -1,7 +1,6 @@
 <h1 align="center">Hi, guys! 🚀</h1>
 
 <p align="center">
-    <b>Welcome to my profile!</b><br><br>
     <i>
         I'm Kenechukwu Ozordi<br>
         A backend developer and developer community advocate.<br>
