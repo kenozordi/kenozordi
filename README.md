@@ -3,7 +3,7 @@
 <p align="center">
     <i>
         I'm Kenechukwu Ozordi<br>
-        A backend developer and developer community advocate.<br>
+        A Software Engineer building open communities.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/ken-ozordi">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
